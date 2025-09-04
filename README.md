@@ -4,6 +4,7 @@ Build this module and add to Magisk.
 Use as:
 
 adb root && adb shell
+
 /data/local/tmp/eapol_capture.sh -c 6 -w /sdcard/eapol_capture
 
 /data/local/tmp/eapol_capture.sh --hop -w /sdcard/eapol_capture
