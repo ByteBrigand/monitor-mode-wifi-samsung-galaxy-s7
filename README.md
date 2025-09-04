@@ -13,3 +13,5 @@ adb root && adb shell
 
 /data/local/tmp/eapol_capture.sh -c 36 -b 00:11:22:33:44:55 -w /sdcard/eapol_capture
 
+
+TODO: add native monitoring by taking inspiration from https://github.com/ruleh/misc/tree/master/monitor
