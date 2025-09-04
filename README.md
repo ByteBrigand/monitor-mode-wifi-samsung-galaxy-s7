@@ -1,4 +1,6 @@
-After flashing LOS 16 and Magisk, add Kali NetHunter as Magisk Module.
+Follow this guide to flash LineageOS 16, Magisk and Kali NetHunter: https://xdaforums.com/t/guide-herolte-installing-kali-nethunter-on-samsung-s7-los-16.4757800/
+
+
 Build this module and add to Magisk.
 
 Use as:
